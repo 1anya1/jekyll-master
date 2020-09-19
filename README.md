@@ -41,6 +41,8 @@ Now you should be able to start your local jekyll server:
 
 `grunt`
 
+In case "grunt" is not found use the following command npm install grunt-cli -g
+
 Go to `localhost:4000` to see it in action and `localhost:4000/admin` to access the admin panel
 
 ### Configuration of your site
